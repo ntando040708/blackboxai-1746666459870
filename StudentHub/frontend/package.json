@@ -1,0 +1,18 @@
+{
+  "name": "studenthub-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for StudentHub collaborative learning platform",
+  "main": "app.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
